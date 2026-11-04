@@ -26,10 +26,9 @@ Experienced IT leader and enterprise software engineer overseeing web architectu
 
 ### 📊 GitHub Activity & Metrics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hirdeshvashishtha&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Hirdesh's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirdeshvashishtha&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+* 🎯 **Contributions:** Active daily contributor & enterprise infrastructure maintainer
+* ⚡ **Workflows:** CI/CD Automation, High-Availability DB Clustered Backups, API Integrations
+* 🔒 **Focus:** Enterprise Security, Zero-Downtime Deployments & Cloud Architecture
 
 ---
 
